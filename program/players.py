@@ -22,4 +22,8 @@ class Player:
     def switchPlayer(self, newPlayer):
         return
     
+    def loginPlayer(self, username):
+        #will be called when the user hits login, and score can be updated. 
+        return
+    
     
